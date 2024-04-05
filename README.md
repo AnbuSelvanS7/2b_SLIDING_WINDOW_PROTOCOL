@@ -39,5 +39,7 @@ while True:
 
 ```
 ## OUTPUT
+![2B](https://github.com/AnbuSelvanS7/2b_SLIDING_WINDOW_PROTOCOL/assets/151528411/fed20cbe-292a-480d-a667-80fcaa7fb82c)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
